@@ -9,6 +9,7 @@
 改好后，文件树结构应为：
 
 └─WPI
+
 ├─test    
 
 │ ├─labels
@@ -18,6 +19,7 @@
 │ │ seq2.mat
 
 │ │ …
+
 │ │ seq17.mat
 
 │ │ readme.txt
@@ -27,17 +29,29 @@
 │ ├─seq2
 
 │ ├─…
+
 │ ├─seq17
+
 │
+
 └─trainval
+
 ├─labels
+
 │ readme.txt
+
 │ seq1.mat
+
 │ …
+
 │ seq7.mat
+
 ├─seq1
+
 ├─…
+
 └─seq7
+
 ————————————————
 版权声明：本文为CSDN博主「Atarasin」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/Azahaxia/article/details/108330265
