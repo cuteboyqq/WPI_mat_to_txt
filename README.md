@@ -52,6 +52,11 @@
 
 └─seq7
 
+
+WPI数据集由两个文件夹组成，分别为test和trainval文件夹，其内部格式是相同的。文件夹内均有标注文件和对应交通灯图片。
+
+其中，标注文件放在labels文件夹内，以mat格式存储标注数据，可用MATLAB打开。关于标注数据各个值所代表的含义可查看readme.txt文件。图片文件放在seq文件夹内，label序号和图片所放的文件夹seq序号一一对应。
+
 ————————————————
 版权声明：本文为CSDN博主「Atarasin」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/Azahaxia/article/details/108330265
