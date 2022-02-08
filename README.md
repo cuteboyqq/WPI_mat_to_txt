@@ -9,15 +9,23 @@
 改好后，文件树结构应为：
 
 └─WPI
-├─test
+├─test    
+
 │ ├─labels
+
 │ │ seq1.mat
+
 │ │ seq2.mat
+
 │ │ …
 │ │ seq17.mat
+
 │ │ readme.txt
+
 │ ├─seq1
+
 │ ├─seq2
+
 │ ├─…
 │ ├─seq17
 │
